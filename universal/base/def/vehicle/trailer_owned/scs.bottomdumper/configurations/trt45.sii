@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .trt45
+{
+	name: "Triple Road Train 45"
+	chain_type: tpdouble
+	icon: "chassis/scs_bottomdumper/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_45_3a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_45_3a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_45_3a.sii"
+}
+}

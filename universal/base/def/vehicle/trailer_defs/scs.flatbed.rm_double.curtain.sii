@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_def : trailer_def.scs.flatbed.rm_double.curtain
+{
+	gross_trailer_weight_limit: 44500
+	chassis_mass: 9784.2
+	body_mass: 1392.7
+	length: 23.7744
+	axles: 4
+	volume: 153.05
+	body_type: curtainside
+	chain_type: rmdouble
+
+	mass_ratio[]: 0.55
+	mass_ratio[]: 0.2
+	mass_ratio[]: 0.25
+}
+}

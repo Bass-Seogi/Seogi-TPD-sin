@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .b_train5
+{
+	name: "B Train 5"
+	chain_type: tpdouble
+	icon: "chassis/scs_gooseneck/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_3a.sii"
+}
+}

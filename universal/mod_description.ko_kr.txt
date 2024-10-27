@@ -1,0 +1,36 @@
+﻿[blue]Lode King & Prestige 지역 제한 해제 - DLC 필요
+싱글 서기 트리플, TPD (HCT)
+네바다, 유타, 콜로라도 - 제한 더블즈 (Triple, TPD, Quad, Road_Train)
+모든 미국에서 나타나는 모드 입니다, 싱글 모드라해도 콘보이 모드세션은 가능합니다
+
+[red]1.50 부터 정상 작동합니다[normal]
+
+
+어려운 주차
+콘솔 명령어 입니다
+"g_simple_parking_doubles 0"
+
+
+[green]일반 더블 트레일러 들도 잠금 해제 했습니다
+
+추가
+
+1.36 곡물 호퍼
+1.37 푸드 탱크
+
+1.43 덤프
+(1.44 Lode King & Prestige - 지역 제한 해제 - DLC 필요)
+
+1.45 드라이 벌크
+1.45 연료 탱크
+
+1.47 가스 탱크
+
+
+지역 제한 해제 안되면
+새로 구매 하던지 정비소에서 체인 타입 변경 하면 됩니다s
+
+추가 트레일러
+B-Triple
+Quad
+Road Train

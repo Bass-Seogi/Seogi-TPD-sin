@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_configuration : .rt5
+{
+	name: "Road Train 5"
+	chain_type: tpdouble
+	icon: "chassis/scs_bottomdumper/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_40_2a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_40_2a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_40_2a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_40_2a_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_40_2a.sii"
+}
+}

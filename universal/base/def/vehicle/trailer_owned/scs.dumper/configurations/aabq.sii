@@ -1,0 +1,15 @@
+SiiNunit
+{
+trailer_configuration : .aabq
+{
+	name: "AAB Quad"
+	chain_type: tpdouble
+	icon: "chassis/scs_dumper/tp_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/ch_30_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/ch_30_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/ch_36_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.dumper/chassis/ch_36_3a.sii"
+}
+}

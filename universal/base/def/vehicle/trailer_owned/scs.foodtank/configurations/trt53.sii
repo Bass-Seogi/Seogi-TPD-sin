@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .trt53
+{
+	name: "Triple Road Train 53"
+	chain_type: tpdouble
+	icon: "chassis/scs_foodtank/tp_double_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.foodtank/chassis/ch_43_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.foodtank/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.foodtank/chassis/ch_43_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.foodtank/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.foodtank/chassis/ch_53_4s.sii"
+}
+}

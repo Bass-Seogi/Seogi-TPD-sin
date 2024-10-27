@@ -1,0 +1,13 @@
+SiiNunit
+{
+
+package_version_info : .universal {
+    package_name: "universal"
+}
+
+package_version_info : .146_ver {
+	package_name: "146_ver"
+	compatible_versions[]: "1.46.*"
+}
+
+}

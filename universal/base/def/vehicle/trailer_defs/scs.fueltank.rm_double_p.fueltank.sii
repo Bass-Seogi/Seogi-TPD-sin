@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_def : trailer_def.scs.fueltank.rm_double_p.fueltank
+{
+	gross_trailer_weight_limit: 38500
+	chassis_mass: 9888.4
+	body_mass: 0
+	length: 23.7744
+	axles: 4
+	volume: 45.04
+	body_type: fueltank
+	chain_type: rmdouble
+
+	mass_ratio[]: 0.6
+	mass_ratio[]: 0.1
+	mass_ratio[]: 0.3
+}
+}

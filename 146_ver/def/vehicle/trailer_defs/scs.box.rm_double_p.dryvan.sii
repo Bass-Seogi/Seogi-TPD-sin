@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_def : trailer_def.scs.box.rm_double_p.dryvan
+{
+	gross_trailer_weight_limit: 44500
+	chassis_mass: 10772.94
+	body_mass: 0
+	length: 23.7744
+	axles: 4
+	volume: 153.05
+	body_type: dryvan
+	chain_type: rmdouble
+
+	mass_ratio[]: 0.55
+	mass_ratio[]: 0.2
+	mass_ratio[]: 0.25
+}
+}

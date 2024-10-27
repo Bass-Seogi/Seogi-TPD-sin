@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .abbq
+{
+	name: "ABB Quad"
+	chain_type: tpdouble
+	icon: "chassis/scs_box/tp_double_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_28_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_28_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45_f.sii"
+}
+}

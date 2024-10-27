@@ -1,0 +1,12 @@
+SiiNunit
+{
+trailer_configuration : .b_triple
+{
+	name: "B @@tr_triple@@"
+	chain_type: tpdouble
+	icon: "chassis/scs_drybulk/tpdouble"
+	chassis[]: "/def/vehicle/trailer_owned/scs.drybulk/chassis/ch_32_3a_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.drybulk/chassis/ch_32_3a_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.drybulk/chassis/ch_48_3a.sii"
+}
+}
