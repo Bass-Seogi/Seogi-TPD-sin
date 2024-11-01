@@ -1,0 +1,13 @@
+SiiNunit
+{
+trailer_configuration : .triple_ab
+{
+	name: "AB @@tr_triple@@"
+	chain_type: tpdouble
+	icon: "chassis/scs_flatbed/tp_double_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_45_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.flatbed/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_28_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.flatbed/chassis/ch_45_f.sii"
+}
+}

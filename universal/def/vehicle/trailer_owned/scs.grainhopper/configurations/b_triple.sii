@@ -1,0 +1,12 @@
+SiiNunit
+{
+trailer_configuration : .b_triple
+{
+	name: "B @@tr_triple@@"
+	chain_type: tpdouble
+	icon: "chassis/scs_grainhopper/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_32_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_32_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_28_2a.sii"
+}
+}

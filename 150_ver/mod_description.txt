@@ -1,0 +1,35 @@
+﻿[blue]Lode King & Prestige - Limited USA Unlocked - Need DLC
+Single Seogi Triple, TPD (HCT)
+Nevada, Utah, Colorado - Limited Doubles (Triple, TPD, Quad, Road_Train)
+is the mode that appears in all of USA
+
+[red]It will function normally from 1.50[normal]
+
+
+HARD parking
+This is a console command
+"g_simple_parking_doubles 0"
+
+
+[green]Unlocked the standard double-trailers
+
+Add
+
+1.36 Grainhopper
+1.37 Foodtank
+
+1.43 Dump
+(1.44 Lode King & Prestige - Limited USA Unlocked - Need DLC)
+
+1.45 scs.drybulk
+1.45 scs.fueltank
+
+1.47 scs.gastank
+
+
+You will have to buy a new one or change the chain type at the repair shop.
+
+Add Trailer
+B-Triple
+Quad
+Road Train

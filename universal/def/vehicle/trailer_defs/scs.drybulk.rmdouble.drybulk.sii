@@ -1,0 +1,18 @@
+SiiNunit
+{
+trailer_def : trailer_def.scs.drybulk.rmdouble.drybulk
+{
+	gross_trailer_weight_limit: 45000
+	chassis_mass: 9956.5
+	body_mass: 0
+	length: 21.336
+	axles: 5
+	volume: 59.4
+	body_type: silo
+	chain_type: rmdouble
+
+	mass_ratio[]: 0.6
+	mass_ratio[]: 0.1
+	mass_ratio[]: 0.3
+}
+}

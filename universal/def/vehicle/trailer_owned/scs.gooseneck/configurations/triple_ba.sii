@@ -1,0 +1,13 @@
+SiiNunit
+{
+trailer_configuration : .triple_ba
+{
+	name: "BA @@tr_triple@@"
+	chain_type: tpdouble
+	icon: "chassis/scs_gooseneck/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_30_bd_3a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_40_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.gooseneck/chassis/ch_40.sii"
+}
+}

@@ -1,0 +1,12 @@
+SiiNunit
+{
+trailer_configuration : .b_triple
+{
+	name: "B @@tr_triple@@"
+	chain_type: tpdouble
+	icon: "chassis/scs_fueltank/tpdouble_6"
+	chassis[]: "/def/vehicle/trailer_owned/scs.fueltank/chassis/ch_32_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.fueltank/chassis/ch_32_bd.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.fueltank/chassis/ch_43_r.sii"
+}
+}

@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_trailer_data : vehicle.sia.gooseneck
+{
+	info[]: ""				# brand
+	info[]: "@@series_scs_container@@"	# series/type
+}
+}
