@@ -1,8 +1,0 @@
-SiiNunit
-{
-accessory_trailer_data : vehicle.sia.flatbed
-{
-	info[]: "" 				# brand
-	info[]: "@@series_scs_flatbed@@"	# series/type
-}
-}

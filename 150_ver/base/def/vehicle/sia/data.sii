@@ -1,8 +1,0 @@
-SiiNunit
-{
-accessory_trailer_data : vehicle.sia.data
-{
-	info[]: ""
-	info[]: "@@series_scs_box@@"
-}
-}
