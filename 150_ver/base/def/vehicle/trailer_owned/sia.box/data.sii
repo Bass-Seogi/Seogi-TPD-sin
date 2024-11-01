@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_trailer_data : vehicle.sia.box
+{
+	info[]: ""			# brand
+	info[]: "@@series_scs_box@@"	# series/type
+}
+}

@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .triple
+{
+	name: "@@tr_triple@@"
+	chain_type: triple
+	icon: "chassis/scs_bottomdumper/double"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_28_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_28_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/dolly.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.bottomdumper/chassis/ch_28_double.sii"
+}
+}

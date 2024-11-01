@@ -10,4 +10,14 @@ package_version_info : .146_ver {
 	compatible_versions[]: "1.46.*"
 }
 
+package_version_info : .146_ver {
+	package_name: "150_ver"
+	compatible_versions[]: "1.47.*"
+	compatible_versions[]: "1.48.*"
+	compatible_versions[]: "1.49.*"
+	compatible_versions[]: "1.50.*"
+	compatible_versions[]: "1.51.*"
+	compatible_versions[]: "1.52.*"
+}
+
 }

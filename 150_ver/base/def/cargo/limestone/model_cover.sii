@@ -1,0 +1,9 @@
+SiiNunit
+{
+cargo_model_match : .cover
+{
+	compatible_body[]: "/def/vehicle/trailer_owned/scs.dumper/body/end.sii"
+
+	data_path[]: "/def/vehicle/trailer/dump/cargo_limestone.sii"
+}
+}

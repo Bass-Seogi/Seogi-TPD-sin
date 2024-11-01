@@ -7,6 +7,6 @@ trailer_configuration : .tp_double_1
 	icon: "chassis/scs_box/tp_double_1"
 	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45_hook.sii"
 	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/dolly_conv.sii"
-	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45_f.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45.sii"
 }
 }

@@ -1,0 +1,14 @@
+SiiNunit
+{
+trailer_configuration : .trt
+{
+	name: "Triple Road Train"
+	chain_type: tpdouble
+	icon: "chassis/scs_grainhopper/turnpike_2_2_2"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_40_r_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_40_r_hook.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/dolly_conv_2a.sii"
+	chassis[]: "/def/vehicle/trailer_owned/scs.grainhopper/chassis/ch_40_r.sii"
+}
+}

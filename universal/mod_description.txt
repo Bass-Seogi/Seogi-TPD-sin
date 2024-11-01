@@ -3,7 +3,7 @@ Single Seogi Triple, TPD (HCT)
 Nevada, Utah, Colorado - Limited Doubles (Triple, TPD, Quad, Road_Train)
 is the mode that appears in all of USA
 
-[red]It will function normally from 1.50[normal]
+[red]It will function normally from 1.53[normal]
 
 
 HARD parking

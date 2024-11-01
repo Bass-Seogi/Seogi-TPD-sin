@@ -1,0 +1,8 @@
+SiiNunit
+{
+accessory_trailer_data : vehicle.sia.dumper
+{
+	info[]: ""			# brand
+	info[]: "@@series_scs_dumper@@"	# series/type
+}
+}
