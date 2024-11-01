@@ -284,7 +284,7 @@ vehicle_accessory: .second.data
 
 vehicle_accessory: .second.chassis
 {
-	data_path: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45_f.sii"
+	data_path: "/def/vehicle/trailer_owned/scs.box/chassis/ch_45.sii"
 }
 
 vehicle_accessory: .second.body
