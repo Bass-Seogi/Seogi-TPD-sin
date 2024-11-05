@@ -2,7 +2,7 @@ SiiNunit
 {
 trailer_configuration : .single_53r
 {
-	name: "@@tr_single_53_slide_rear@@"
+	name: "@@tr_single_53_rear@@"
 	chain_type: single
 	icon: "chassis/scs_box/single_53r"
 	equivalency: s53
